@@ -1,5 +1,5 @@
-# Fazcraft
-Credits
--Modding by Kaupenjoe
--Scott Coffin
--Mojang
+Fazcraft
+ Credits
+ -Modding by Kaupenjoe
+ -Scott Coffin
+ -Mojang
